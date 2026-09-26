@@ -4,7 +4,7 @@
   "ads": {
     "enabled": true,
     "banner": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-4812457660222146/5340863067"
     },
     "interstitial": {

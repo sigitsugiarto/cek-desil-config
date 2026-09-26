@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-26",
+  "ads": {
+    "enabled": true,
+    "banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-4812457660222146/5340863067"
+    },
+    "interstitial": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-4812457660222146/1051187704",
+      "frequency": 3,
+      "min_interval_seconds": 120
+    }
+  }
+}
